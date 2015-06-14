@@ -1,2 +1,2 @@
-# natural-counting-of-lambda-terms
-Supplement to the "A Natural Counting of Lambda Terms" article
+# Natural Counting of Lambda Terms
+Supplement to the "A Natural Counting of Lambda Terms" article.
